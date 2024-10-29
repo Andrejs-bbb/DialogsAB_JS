@@ -17,3 +17,13 @@ Elektroniska klade par JavaScript
 1. Jautājumi/atbildes
 2. Darbības ar HTML, CSS
 3. JavaScript
+
+## 4.Nodarbība. Galvenās tēmas
+1. https://www.w3schools.com/js/js_whereto.asp
+2. https://www.w3schools.com/css/css_howto.asp
+3. https://www.w3schools.com/js/js_variables.asp
+4. https://www.w3schools.com/js/js_let.asp
+5. https://www.w3schools.com/js/js_const.asp
+6. https://www.w3schools.com/js/js_arrays.asp
+7. https://www.w3schools.com/js/js_array_methods.asp
+ 
