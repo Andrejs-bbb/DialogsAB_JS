@@ -27,3 +27,9 @@ Elektroniska klade par JavaScript
 6. https://www.w3schools.com/js/js_arrays.asp
 7. https://www.w3schools.com/js/js_array_methods.asp
  
+## 5.Nodarbība. Galvenās tēmas
+1. https://www.w3schools.com/js/js_arrays.asp
+2. https://www.w3schools.com/js/js_array_methods.asp
+3. https://www.w3schools.com/jsref/jsref_obj_array.asp
+4. https://www.ecowin.org/ascii.htm
+5. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
