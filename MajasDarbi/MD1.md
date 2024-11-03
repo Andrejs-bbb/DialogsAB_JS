@@ -1,6 +1,6 @@
 ## Mājas darbs 1
 ## Uzdevumi:
-# Repozitorijā izveidot papildu mapi - MajasDarbi.
+### Repozitorijā izveidot papildu mapi - MajasDarbi.
 
 Izveidotajā mapē uztaisīt dokumentu MD1.md.
 
