@@ -12,6 +12,8 @@
   let age = 30;
 * Mainīgā "const" izmantošanas piemēri
   const name = "Alice";
+![image](https://github.com/user-attachments/assets/b1cc641a-5802-4bf1-9784-26c4696c5f92)
+
 ### ar masīvu izmantošanu
 ### vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
 ### ar nosacījuma operatora (if) izmantošanu
