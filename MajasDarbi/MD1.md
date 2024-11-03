@@ -48,11 +48,91 @@ if (age >= 18) {
 }
 
 ### ar pārslēgšanas operatora (switch) izmantošanu
+let day = "Monday";
+
+switch (day) {
+
+    case "Monday":
+    
+        console.log("Šodien ir pirmdiena");
+        
+        break;
+        
+    case "Tuesday":
+    
+        console.log("Šodien ir otrdiena");
+        
+        break;
+        
+    default:
+    
+        console.log("Šī diena nav nedēļas sākumā");
+        
+}
+
 ### ar cikla operatora (for) izmantošanu
+for (let i = 0; i < 5; i++) {
+
+    console.log(i);
+    
+}
+
 ### ar cikla operatora (while) izmantošanu
+let count = 0;
+
+while (count < 5) {
+
+    console.log(count);
+    
+    count++;
+    
+}
+
 ### ar funkcijas definēšanu (klasiskais paņēmiens - function vārds(argumenti) {darbības; return ...;})
+function add(a, b) {
+
+    return a + b;
+    
+}
+
+console.log(add(2, 3));
+
 ### ar funkcijas definēšanu (anonīma funkcija)
+const greeting = function(name) {
+
+    return "Hi, " + name;
+    
+};
+
 ### ar funkcijas definēšanu (anonīmas funkcijas nosaukšana ar piešķiršanu)
+const divide = function(a, b) {
+
+    return a / b;
+    
+};
+
+console.log(divide(10, 2));
+
+
 ### ar funkcijas definēšanu (ar => paņēmienu)
+const add = (a, b) => a + b;
+
+console.log(add(2, 3));
+
 ### ar funkcijas izsaukšanu (darbināšanu)
+function greet(name) {
+
+    console.log("Sveiks, " + name + "!");
+    
+}
+
+greet("Anna");
+
 ### ar pagaidu papildu references izveidošanu eksistējošam objektam - kompaktākai rakstīšanai
+const user = { name: "John", age: 30 };
+
+const { name, age } = user;
+
+console.log(name);
+
+console.log(age);
