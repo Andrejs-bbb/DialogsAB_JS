@@ -6,12 +6,12 @@
 
 * Mapē un attiecīgi md failā salikt piemērus ar attēliem un nelieliem aprakstiem no visas www pasaules (no tīkla lapām) ar:
 ### ar mainīgo izmantošanu
- * Mainīgā "var" izmantošanas piemēri
-   var count = 0;
+ * Mainīgā "var" izmantošanas piemērs
+   ;var count = 0;
 * Mainīgā "let" izmantošanas piemērs
-  let age = 30;
-* Mainīgā "const" izmantošanas piemēri
-  const name = "Alice";
+  ;let age = 30;
+* Mainīgā "const" izmantošanas piemērs
+  ;const name = "Alice";
 
 ### ar masīvu izmantošanu
 let fruits = ["apple", "banana", "cherry"];
