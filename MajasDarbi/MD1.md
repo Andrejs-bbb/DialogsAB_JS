@@ -6,10 +6,10 @@
 
 * Mapē un attiecīgi md failā salikt piemērus ar attēliem un nelieliem aprakstiem no visas www pasaules (no tīkla lapām) ar:
 ### ar mainīgo izmantošanu
- let age = 30;
- const name = "Alice";
- var city = "New York";
- (avots https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types)
+let age = 30;
+const name = "Alice";
+var city = "New York";
+
 ### ar masīvu izmantošanu
 ### vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
 ### ar nosacījuma operatora (if) izmantošanu
