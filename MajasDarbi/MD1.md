@@ -6,18 +6,19 @@
 
 * Mapē un attiecīgi md failā salikt piemērus ar attēliem un nelieliem aprakstiem no visas www pasaules (no tīkla lapām) ar:
 ### ar mainīgo izmantošanu
- * Mainīgā "var" izmantošanas piemērs
-   ;var count = 0;
+* Mainīgā "var" izmantošanas piemērs
+var count = 0;
 * Mainīgā "let" izmantošanas piemērs
-  ;let age = 30;
+let age = 30;
 * Mainīgā "const" izmantošanas piemērs
-  ;const name = "Alice";
+const name = "Alice";
 
 ### ar masīvu izmantošanu
 let fruits = ["apple", "banana", "cherry"];
 console.log(fruits[0]);
 
 ### vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
+
 ### ar nosacījuma operatora (if) izmantošanu
 ### ar pārslēgšanas operatora (switch) izmantošanu
 ### ar cikla operatora (for) izmantošanu
