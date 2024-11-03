@@ -2,9 +2,9 @@
 ### Uzdevumi:
  * Repozitorijā izveidot papildu mapi - MajasDarbi.
 
-Izveidotajā mapē uztaisīt dokumentu MD1.md.
+* Izveidotajā mapē uztaisīt dokumentu MD1.md.
 
-Mapē un attiecīgi md failā salikt piemērus ar attēliem un nelieliem aprakstiem no visas www pasaules (no tīkla lapām) ar:
+* Mapē un attiecīgi md failā salikt piemērus ar attēliem un nelieliem aprakstiem no visas www pasaules (no tīkla lapām) ar:
 ar mainīgo izmantošanu
 ar masīvu izmantošanu
 vismaz ar piecu dažādu metožu izmantošanu saistībā ar masīviem
