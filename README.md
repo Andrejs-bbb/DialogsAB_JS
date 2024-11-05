@@ -33,3 +33,15 @@ Elektroniska klade par JavaScript
 3. https://www.w3schools.com/jsref/jsref_obj_array.asp
 4. https://www.ecowin.org/ascii.htm
 5. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures
+
+## 6.Nodarbība. Galvenās tēmas
+1. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+2. https://developer.mozilla.org/en-US/docs/Glossary/Truthy
+3. https://developer.mozilla.org/en-US/docs/Glossary/Falsy
+4. https://www.w3schools.com/js/js_if_else.asp
+5. https://online.citadele.lv/ibbf/js/dependencies-verrel-121_6_1.js
+6. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch
+7. https://www.w3schools.com/js/js_switch.asp
+8. https://www.w3schools.com/js/tryit.asp?filename=tryjs_switch
+9. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
+10. https://www.w3schools.com/js/js_loop_while.asp
