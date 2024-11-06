@@ -45,3 +45,10 @@ Elektroniska klade par JavaScript
 8. https://www.w3schools.com/js/tryit.asp?filename=tryjs_switch
 9. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while
 10. https://www.w3schools.com/js/js_loop_while.asp
+
+## 7.Nodarbība. Galvenās tēmas
+1. https://www.geeksforgeeks.org/swap-two-numbers-without-using-temporary-variable/
+2. https://www.w3schools.com/js/js_loop_forof.asp
+3. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions
+4. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+5. https://www.w3schools.com/js/js_functions.asp
