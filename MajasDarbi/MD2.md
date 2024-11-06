@@ -13,18 +13,27 @@ a = 1
 b = 10
 
 temp = b
+
 // a ir 1
+
 // b ir 10
+
 // temp 10
 
 b = a
+
 // a ir 1
+
 // b ir 1
+
 // temp 10
 
 a = temp
+
 // a ir 10
+
 // b ir 1
+
 // temp 10
 
 3. Uzdot trīs mainīgos, piemēram, a = 1; b = 10; c = 3; sakārtot tos un attēlot augošā secībā. Atkārtot uzdevumu pie dažādām a, b un c sākuma vērtību kombinācijām.
@@ -36,21 +45,33 @@ b = 10
 c = 3
 
 temp = b
+
 // a ir 1
+
 // b ir 10
+
 // c ir 3
+
 // temp 10
 
 b = c
+
 // a ir 1
+
 // b ir 3
+
 // c ir 3
+
 // temp 10
 
 c = temp
+
 // a ir 1
+
 // b ir 3
+
 // c ir 10
+
 // temp 10
 
 ------------------
@@ -62,27 +83,43 @@ b = 1
 c = 3
 
 temp = a
+
 // a ir 10
+
 // b ir 1
+
 // c ir 3
+
 // temp 10
 
 a = b
+
 // a ir 1
+
 // b ir 1
+
 // c ir 3
+
 // temp 10
 
 b = c
+
 // a ir 1
+
 // b ir 3
+
 // c ir 3
+
 // temp 10
 
 c = temp
+
 // a ir 1
+
 // b ir 3
+
 // c ir 10
+
 // temp 10
 
 4. Uzdot trīs mainīgos, piemēram, a = 1; b = 10; c = 3; sakārtot tos un attēlot dilstošā secībā. Atkārtot uzdevumu pie dažādām a, b un c sākuma vērtību kombinācijām.
