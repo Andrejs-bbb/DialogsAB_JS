@@ -131,10 +131,64 @@ b = 10
 c = 3
 
 temp = 10
+
 // a ir 1
-// b ir 3
-// c ir 10
+
+// b ir 10
+
+// c ir 3
+
 // temp 10
+
+b = a
+
+// a ir 1
+
+// b ir 1
+
+// c ir 3
+
+// temp 10
+
+a = temp
+
+// a ir 10
+
+// b ir 1
+
+// c ir 3
+
+// temp 10
+
+temp = c
+
+// a ir 10
+
+// b ir 1
+
+// c ir 3
+
+// temp 3
+
+c = b
+
+// a ir 10
+
+// b ir 1
+
+// c ir 1
+
+// temp 3
+
+b = temp
+
+// a ir 10
+
+// b ir 3
+
+// c ir 1
+
+// temp 3
 
 
 ### 5. Uzdot četrus mainīgos, piemēram, a = 1; b = 10; c = 3; d = 7; sakārtot tos un attēlot augošā secībā. Risinot uzdevumu, saprast, ka ar diskrētiem mainīgajiem (a,b,c,d) tas vairs nav tik vienkārši, aizdomāties par masīva (a[0],a[1],a[2],a[3]), ciklu un kādas metodes, piemēram, burbuļu metodi, izmantošanu.
