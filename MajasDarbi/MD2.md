@@ -74,7 +74,7 @@ c = temp
 
 // temp 10
 
-------------------
+--------------------
 
 a = 10
 
@@ -190,8 +190,50 @@ b = temp
 
 // temp 3
 
+--------------------
+a = 1
+
+b = 3
+
+c = 10
+
+temp = 10
+
+// a ir 1
+
+// b ir 3
+
+// c ir 10
+
+// temp 10
+
+c = a
+
+// a ir 1
+
+// b ir 3
+
+// c ir 1
+
+// temp 10
+
+a = temp
+
+// a ir 10
+
+// b ir 3
+
+// c ir 1
 
 ### 5. Uzdot četrus mainīgos, piemēram, a = 1; b = 10; c = 3; d = 7; sakārtot tos un attēlot augošā secībā. Risinot uzdevumu, saprast, ka ar diskrētiem mainīgajiem (a,b,c,d) tas vairs nav tik vienkārši, aizdomāties par masīva (a[0],a[1],a[2],a[3]), ciklu un kādas metodes, piemēram, burbuļu metodi, izmantošanu.
+
+a = 1
+
+b = 10
+
+c = 3
+
+d = 7
 
 ## Treniņi ar while (un if)
 1. Attēlot visus veselus skaitļus no 1 līdz 30.
