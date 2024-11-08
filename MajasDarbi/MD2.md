@@ -235,6 +235,54 @@ c = 3
 
 d = 7
 
+temp = 10
+
+// a = 1
+
+// b = 10
+
+// c = 3
+
+// d = 7
+
+// temp = 10
+
+b = c
+
+// a = 1
+
+// b = 3
+
+// c = 3
+
+// d = 7
+
+// temp = 10
+
+c = d
+
+// a = 1
+
+// b = 3
+
+// c = 7
+
+// d = 7
+
+// temp = 10
+
+d = temp
+
+// a = 1
+
+// b = 3
+
+// c = 7
+
+// d = 10
+
+// temp = 10
+
 ## Treniņi ar while (un if)
 1. Attēlot visus veselus skaitļus no 1 līdz 30.
 2. Attēlot visus veselus nepāru skaitļus no 1 līdz 30.
