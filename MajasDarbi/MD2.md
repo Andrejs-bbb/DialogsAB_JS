@@ -130,7 +130,7 @@ b = 10
 
 c = 3
 
-temp = 10
+temp = b
 
 // a ir 1
 
@@ -197,7 +197,7 @@ b = 3
 
 c = 10
 
-temp = 10
+temp = c
 
 // a ir 1
 
@@ -235,7 +235,7 @@ c = 3
 
 d = 7
 
-temp = 10
+temp = b
 
 // a = 1
 
