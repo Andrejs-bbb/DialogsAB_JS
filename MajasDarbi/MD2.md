@@ -284,8 +284,20 @@ d = temp
 // temp = 10
 
 ## Treniņi ar while (un if)
-1. Attēlot visus veselus skaitļus no 1 līdz 30.
-2. Attēlot visus veselus nepāru skaitļus no 1 līdz 30.
-3. Attēlot visus veselus pāru skaitļus no 1 līdz 30.
-4. Attēlot visus veselus nepāru skaitļus no 1 līdz 30, bet 5 un 11 neattēlot.
-5. Attēlot visus veselus pāru skaitļus no 1 līdz 30, bet 12, 14, 16, 18, neattēlot.
+
+### 1. Attēlot visus veselus skaitļus no 1 līdz 30.
+
+let i = 1;
+console.log("Visi veselie skaitļi no 1 līdz 30:");
+while (i <= 30) {
+    console.log(i);
+    i++;
+}
+
+### 2. Attēlot visus veselus nepāru skaitļus no 1 līdz 30.
+
+### 3. Attēlot visus veselus pāru skaitļus no 1 līdz 30.
+
+### 4. Attēlot visus veselus nepāru skaitļus no 1 līdz 30, bet 5 un 11 neattēlot.
+
+### 5. Attēlot visus veselus pāru skaitļus no 1 līdz 30, bet 12, 14, 16, 18, neattēlot.
