@@ -288,16 +288,85 @@ d = temp
 ### 1. Attēlot visus veselus skaitļus no 1 līdz 30.
 
 let i = 1;
+
 console.log("Visi veselie skaitļi no 1 līdz 30:");
+
 while (i <= 30) {
+
     console.log(i);
+    
     i++;
+    
 }
 
 ### 2. Attēlot visus veselus nepāru skaitļus no 1 līdz 30.
 
+i = 1;
+
+console.log("Visi nepāru skaitļi no 1 līdz 30:");
+
+while (i <= 30) {
+
+    if (i % 2 !== 0) {
+    
+        console.log(i);
+        
+    }
+    
+    i++;
+    
+}
+
 ### 3. Attēlot visus veselus pāru skaitļus no 1 līdz 30.
+
+i = 1;
+
+console.log("Visi pāru skaitļi no 1 līdz 30:");
+
+while (i <= 30) {
+
+    if (i % 2 === 0) {
+    
+        console.log(i);
+        
+    }
+    
+    i++;
+    
+}
 
 ### 4. Attēlot visus veselus nepāru skaitļus no 1 līdz 30, bet 5 un 11 neattēlot.
 
+i = 1;
+
+console.log("Visi nepāru skaitļi no 1 līdz 30, izņemot 5 un 11:");
+
+while (i <= 30) {
+
+    if (i % 2 !== 0 && i !== 5 && i !== 11) {
+    
+        console.log(i);
+        
+    }
+    
+    i++;
+    
+}
+
 ### 5. Attēlot visus veselus pāru skaitļus no 1 līdz 30, bet 12, 14, 16, 18, neattēlot.
+
+i = 1;
+
+console.log("Visi pāru skaitļi no 1 līdz 30, izņemot 12, 14, 16 un 18:");
+
+while (i <= 30) {
+
+    if (i % 2 === 0 && i !== 12 && i !== 14 && i !== 16 && i !== 18) {
+    
+        console.log(i);
+        
+    }
+    
+    i++;
+    
+}
