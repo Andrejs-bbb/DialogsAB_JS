@@ -1,3 +1,5 @@
+// https://www.w3schools.com/howto/howto_js_default_parameters.asp
+
 ## Uzrakstīt funkciju – function count(from, to, choice, [exclusions]){ … }, kuru darbinot:
 
 ### count(1, 30, ’all’); – tiks attēloti visi veseli skaitļi no 1 līdz 30
