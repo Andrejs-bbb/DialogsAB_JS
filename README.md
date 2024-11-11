@@ -52,3 +52,14 @@ Elektroniska klade par JavaScript
 3. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions
 4. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
 5. https://www.w3schools.com/js/js_functions.asp
+
+## 8.Nodarbība. Galvenās tēmas
+1. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions
+2. https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_test
+3. https://github.com/tatusmatrixAB/DialogsAB_JS/blob/main/Class_08/scripts/script.js
+4. https://chatgpt.com/share/67323625-dd14-8012-8daa-ff3ef405b4b0
+5. https://openweathermap.org/api
+6. https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/
+7. https://javascript-mini-projects.netlify.app/seatbooking
+8. https://github.com/bradtraversy/vanillawebprojects/blob/master/movie-seat-booking/style.css
+
