@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="lv">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skaitļu funkcija</title>
+</head>
+<body>
+    <h1>Skaitļu attēlošana</h1>
+
+    <button onclick="count(1, 30, 'all')">Rādīt visus skaitļus</button>
+    <button onclick="count(1, 30, 'odd')">Rādīt nepāra skaitļus</button>
+    <button onclick="count(1, 30, 'even')">Rādīt pāra skaitļus</button>
+    <button onclick="count(1, 30, 'odd', [5, 11])">Rādīt nepāra skaitļus (izņemot 5, 11)</button>
+    <button onclick="count(1, 30, 'even', [12, 14, 16, 18])">Rādīt pāra skaitļus (izņemot 12, 14, 16, 18)</button>
+
+    <div id="output" style="margin-top: 20px; font-size: 1.2em;"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
