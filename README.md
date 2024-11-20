@@ -63,3 +63,9 @@ Elektroniska klade par JavaScript
 7. https://javascript-mini-projects.netlify.app/seatbooking
 8. https://github.com/bradtraversy/vanillawebprojects/blob/master/movie-seat-booking/style.css
 
+## 9.Nodarbība. Galvenās tēmas
+1. https://www.w3schools.com/js/js_objects.asp
+2. https://www.w3schools.com/js/js_object_property.asp
+3. https://chatgpt.com/share/67323625-dd14-8012-8daa-ff3ef405b4b0
+4. https://chatgpt.com/share/67323625-dd14-8012-8daa-ff3ef405b4b0
+
