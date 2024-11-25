@@ -69,3 +69,10 @@ Elektroniska klade par JavaScript
 3. https://chatgpt.com/share/67323625-dd14-8012-8daa-ff3ef405b4b0
 4. https://chatgpt.com/share/67323625-dd14-8012-8daa-ff3ef405b4b0
 
+## 10.Nodarbība. Galvenās tēmas
+1. https://www.w3schools.com/js/js_object_display.asp
+2. https://developer.mozilla.org/en-US/docs/Glossary/Encapsulation
+3. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Classes_in_JavaScript
+4. https://developer.mozilla.org/en-US/docs/Glossary/Polymorphism
+5. https://www.w3schools.com/js/js_object_constructors.asp
+
