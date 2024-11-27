@@ -76,3 +76,9 @@ Elektroniska klade par JavaScript
 4. https://developer.mozilla.org/en-US/docs/Glossary/Polymorphism
 5. https://www.w3schools.com/js/js_object_constructors.asp
 
+## 11.Nodarbība. Galvenās tēmas
+1. https://www.javascripttutorial.net/javascript-bom/
+2. https://github.com/tatusmatrixAB/DialogsAB_JS/tree/main/Class_11
+3. https://www.javascripttutorial.net/javascript-bom/javascript-settimeout/
+4. https://www.javascripttutorial.net/javascript-bom/javascript-location/
+   
