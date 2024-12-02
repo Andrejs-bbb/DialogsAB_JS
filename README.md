@@ -81,4 +81,15 @@ Elektroniska klade par JavaScript
 2. https://github.com/tatusmatrixAB/DialogsAB_JS/tree/main/Class_11
 3. https://www.javascripttutorial.net/javascript-bom/javascript-settimeout/
 4. https://www.javascripttutorial.net/javascript-bom/javascript-location/
-   
+
+## 12.Nodarbība. Galvenās tēmas
+1. https://www.javascripttutorial.net/javascript-bom/
+2. https://www.javascripttutorial.net/javascript-bom/javascript-location/
+3. https://www.hostinger.com/tutorials/domain-vs-hosting
+4. https://www.javascripttutorial.net/javascript-bom/javascript-navigator/
+5. https://www.javascripttutorial.net/javascript-bom/javascript-history/
+6. https://www.javascripttutorial.net/javascript-dom/
+7. https://www.javascripttutorial.net/javascript-dom/document-object-model-in-javascript/
+8. https://developer.mozilla.org/en-US/docs/Web/API/Node
+9. https://www.javascripttutorial.net/javascript-dom/javascript-getelementbyid/
+10. https://www.javascripttutorial.net/javascript-dom/javascript-queryselector/
