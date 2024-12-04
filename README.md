@@ -93,3 +93,15 @@ Elektroniska klade par JavaScript
 8. https://developer.mozilla.org/en-US/docs/Web/API/Node
 9. https://www.javascripttutorial.net/javascript-dom/javascript-getelementbyid/
 10. https://www.javascripttutorial.net/javascript-dom/javascript-queryselector/
+
+## 13.Nodarbība. Galvenās tēmas
+1. https://www.javascripttutorial.net/javascript-dom/
+2. https://en.wikipedia.org/wiki/Document_Object_Model
+3. https://github.com/tatusmatrixAB/DialogsAB_JS/blob/main/Class_13/index.html
+4. https://developer.mozilla.org/en-US/docs/Web/API/Element#events
+5. https://www.javascripttutorial.net/javascript-dom/javascript-getelementsbyclassname/
+6. https://www.w3schools.com/js/js_htmldom_collections.asp
+7. https://www.w3schools.com/js/js_htmldom_nodelist.asp
+8. https://medium.com/@layne_celeste/htmlcollection-vs-nodelist-4b83e3a4fb4b
+9. https://www.javascripttutorial.net/javascript-dom/
+10. https://www.javascripttutorial.net/javascript-dom/javascript-events/
