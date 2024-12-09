@@ -105,3 +105,14 @@ Elektroniska klade par JavaScript
 8. https://medium.com/@layne_celeste/htmlcollection-vs-nodelist-4b83e3a4fb4b
 9. https://www.javascripttutorial.net/javascript-dom/
 10. https://www.javascripttutorial.net/javascript-dom/javascript-events/
+
+## 14.Nodarbība. Galvenās tēmas
+1. https://www.rtu.lv/lv/universitate/masu-medijiem/zinas/atvert/vieslekcija-bus-iespeja-uzzinat-par-kibernoziegumiem-izspiedejvirusu-ekosistemu-un-draudiem-nacionalajai-drosibai
+2. https://www.facebook.com/events/944854887075397/?acontext=%7B%22ref%22%3A%2252%22%2C%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22share_link%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22share_link%5C%22%2C%5C%22extra_data%5C%22%3A%7B%5C%22invite_link_id%5C%22%3A563287309920495%7D%7D]%22%7D
+3. https://www.delfi.lv/bizness/56234200/eiropas-zinas/120053457/aicina-pieaugusos-pieteikties-izglitibas-programmas-lai-apgutu-darba-tirgu-aktualas-profesijas
+4. https://github.com/tatusmatrixAB/DialogsAB_JS_2024/blob/main/Nodarbiba_13/tests_2.html
+5. https://www.w3schools.com/html/html5_webstorage.asp
+6. https://developer.mozilla.org/en-US/docs/Web/Privacy/State_Partitioning
+7. https://developer.mozilla.org/en-US/docs/Web/Privacy
+8. https://www.javascripttutorial.net/javascript-dom/javascript-form/
+9. https://github.com/tatusmatrixAB/DialogsAB_JS/blob/main/Class_14/forma_3.html
