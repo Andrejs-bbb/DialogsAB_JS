@@ -65,7 +65,29 @@ Tiek izmantots, lai saglabātu lietotāja izvēletas sēdvietas.
 
 ...
 
-### 3.7 uzskaitīt un raksturot saskarni ar BOM un DOM
+### 3.7. uzskaitīt un raksturot saskarni ar BOM un DOM
+
+a) BOM
+
+localStorage tiek izmantots datu saglabāšanai un atjaunošanai.
+
+b) DOM
+
+document.querySelector tiek izmantots, lai piekļūtu HTML elementiem.
+
+### 3.8. raksturot darbību secību
+
+a) Lietotājs izvēlas filmu un sēdvietas.
+
+b) Tiek aprēķināts sēdvietu skaits un kopējā cena.
+
+c) Dati tiek saglabāti.
+
+## 4. Izmaiņas projektā: Ierobežojums sēdvietu izvēlei (maks. 5 sēdvietas)
+
+
+
+
 
 
 
