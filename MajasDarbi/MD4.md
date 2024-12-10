@@ -85,7 +85,8 @@ c) Dati tiek saglabāti.
 
 ## 4. Izmaiņas projektā: Mainīt sēdvietas izskatu, kad tās izvēlas
 
-![image](https://github.com/user-attachments/assets/6c12bcbe-5da3-47f1-848a-24c5649b698d)
+![Bez nosaukuma](https://github.com/user-attachments/assets/062a02b2-6a47-4b2c-8a12-dc833d34d8bd)
+
 
 
 
