@@ -1,1 +1,1 @@
-### Apraksts - stāts par darbu ar izvēlēto Vanilla JS pojektu.
+## Apraksts - stāts par darbu ar izvēlēto Vanilla JS pojektu.
