@@ -83,7 +83,12 @@ b) Tiek aprēķināts sēdvietu skaits un kopējā cena.
 
 c) Dati tiek saglabāti.
 
-## 4. Izmaiņas projektā: Ierobežojums sēdvietu izvēlei (maks. 5 sēdvietas)
+## 4. Izmaiņas projektā: Mainīt sēdvietas izskatu, kad tās izvēlas
+
+![image](https://github.com/user-attachments/assets/6c12bcbe-5da3-47f1-848a-24c5649b698d)
+
+
+
 
 
 
