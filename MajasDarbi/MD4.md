@@ -83,9 +83,18 @@ b) Tiek aprēķināts sēdvietu skaits un kopējā cena.
 
 c) Dati tiek saglabāti.
 
-## 4. Izmaiņas projektā: Mainīt sēdvietas izskatu, kad tās izvēlas
+## 4. Izmaiņas projektā: Mainīt sēdvietas krāsu, kad tās izvēlas
+
+Pirms:
 
 ![Bez nosaukuma](https://github.com/user-attachments/assets/062a02b2-6a47-4b2c-8a12-dc833d34d8bd)
+
+Pēc:
+
+![Bez nosaukuma_2](https://github.com/user-attachments/assets/32e247c4-b605-4663-9841-321b38b7facb)
+
+
+
 
 
 
