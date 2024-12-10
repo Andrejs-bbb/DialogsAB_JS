@@ -6,6 +6,22 @@
 ### 3.1. uzskaitīt un raksturot mainīgos, to vajadzību un pielietošanas robežas (scope)
 
 a) container
-Tips: const. Funkcija: Norāda uz elementu ar klasi .container. Tiek izmantots, lai klausītos klikšķus.
+Norāda uz elementu ar klasi .container. Tiek izmantots, lai klausītos klikšķus.
+
+b) seats
+Satur elementus ar klasi .seat, kas nav aizņemti. Tiek izmantots, lai pārbaudītu sēdvietu stāvokli.
+
+c) count un total
+Atsaucas uz elementiem, kas parāda izvēlēto sēdvietu skaitu un kopējo cenu.
+
+d) movieSelect
+Norāda uz filmas izvēles sarakstu.
+
+e) ticketPrice
+Satur biļetes cenu. Tiek mainīts, kad lietotājs izvēlas citu filmu.
+
+
+
+
 
 
